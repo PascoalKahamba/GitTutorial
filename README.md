@@ -64,7 +64,7 @@ Lembra do conceito de `remote` que eu expliquei pra vocês no último vídeo? N�
 
 * `origin` é o nome utilizado para referenciar o nosso repositório
 
-Agora já temos o nosso repositório local conectado com o respositório do Github, porém o `commit` que damos na máquina não sobe automaticamente para a plataforma
+Agora já temos o nosso repositório local conectado com o respositório do Github, porém o `commit` que damos na máquina não sobe automaticamente para a plataforma Kahamba
 
 * Para isso precisaremos empurrar, enviar para lá com o `git push -u origin main`
 
